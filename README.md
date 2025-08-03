@@ -1,5 +1,9 @@
 # Full Stack Crypto Tracker
 
+<!-- live demo -->
+
+vercel-link='https://vr-auto.vercel.app/'
+
 This is a full-stack web application built for the VR Automations developer test. It provides a real-time dashboard to track the top 10 cryptocurrencies, featuring live data, historical price charts, search, and sorting functionalities.
 
 ---
